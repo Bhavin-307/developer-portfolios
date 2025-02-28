@@ -107,6 +107,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bertil Tandayamo](https://www.bertiltandayamo.me/)
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bhavani Ravi](http://bhavaniravi.com)
+- [Bhavin Sali](https://bhavin-portfolio-official.vercel.app/)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
 - [Bob Matyas](https://www.bobmatyas.com)
